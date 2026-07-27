@@ -1,0 +1,2 @@
+# beverlyroyal
+Static site: beverlyroyal
